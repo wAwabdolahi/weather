@@ -1,1 +1,1 @@
-# weather
+# weather i madde this website by using js for practice in this one i didnt had a data base so i used an array and filled it up with objects with required data and i addeed this fallowing cities : tehran . shiraz .mashad. tabriz. zahedan
